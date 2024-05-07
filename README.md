@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi!👋 I'm Sun Xiaorui, an undergraduate from China. This is my repository.
+
 
 <!--
 **bhllx/bhllx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
