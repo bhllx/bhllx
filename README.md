@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bhllx/new-repo-from-local-repo/blob/main/picture/dark.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/bhllx/new-repo-from-local-repo/blob/main/picture/light.jpg">
- <img alt="This is the default dark-mode picture." src="https://github.com/bhllx/new-repo-from-local-repo/blob/main/picture/dark.png">
-</picture>
-
 ## About me
 
 <!-- TO DO: add more details about me later -->
