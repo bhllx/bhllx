@@ -1,7 +1,7 @@
 ## About me
 
 <!-- TO DO: add more details about me later -->
-Hi!👋 I'm Sun Xiaorui, an undergraduate from China. This is my repository.
+Hi!👋 I'm Sun Xiaorui, an undergraduate from China.
 
 <details>
 <summary>More about me</summary>
