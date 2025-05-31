@@ -6,9 +6,9 @@ Hi!👋 I'm Sun Xiaorui, an undergraduate from China.
 <details>
 <summary>More about me</summary>
  
-|NAME|BIRTHDAY|REGION|SCHOOL|EMAIL|INTEREST|
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|Sun Xiaorui|2004.01.18|Chengdu, China|[UESTC](https://www.uestc.edu.cn/)|sunxiaorui2004@gmail.com|sports, movies, music|
+|NAME|REGION|SCHOOL|EMAIL|INTEREST|
+|:----:|:----:|:----:|:----:|:----:|
+|Sun Xiaorui|Chengdu, China|[UESTC](https://www.uestc.edu.cn/)|sunxiaorui2004@gmail.com|sports, movies, music|
 
 </details>
 
