@@ -1,14 +1,14 @@
 ## About me
 
 <!-- TO DO: add more details about me later -->
-Hi!👋 I'm Sun Xiaorui, an undergraduate from China.
+Hi!👋 My name is Sun Xiaorui, welcome to my Github page.
 
 <details>
 <summary>More about me</summary>
  
-|NAME|REGION|SCHOOL|EMAIL|INTEREST|
-|:----:|:----:|:----:|:----:|:----:|
-|Sun Xiaorui|Chengdu, China|[UESTC](https://www.uestc.edu.cn/)|sunxiaorui2004@gmail.com|sports, movies, music|
+|CITY|SCHOOL|EMAIL|INTEREST|
+|:----:|:----:|:----:|:----:|
+|Chengdu, China|[UESTC](https://www.uestc.edu.cn/)|sunxiaorui2004@gmail.com|sports, movies, music|
 
 </details>
 
