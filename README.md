@@ -1,7 +1,7 @@
 ## About me
 
 <!-- TO DO: add more details about me later -->
-Hi!👋 My name is Sun Xiaorui, welcome to my Github page.
+Hi!👋 My name is Sun Xiaorui, welcome to my github page.
 
 <details>
 <summary>More about me</summary>
@@ -14,7 +14,7 @@ Hi!👋 My name is Sun Xiaorui, welcome to my Github page.
 
 ---
 > There is only one heroism in the world: to see the world as it is and to love it.
-- Romain Rolland
+
 
 
 <!--
